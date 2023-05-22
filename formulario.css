@@ -1,0 +1,25 @@
+body{
+    background-color: coral;
+    color: white;
+    font-size: 1.2rem;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 2px whitesmoke solid;
+    padding: 4px;
+}
+button{
+    background-color: black;
+    color: wheat;
+    font-size: 1.2rem;
+}
+select{
+    background-color: black;
+    color: bisque;
+}
+input{
+    background-color: black;
+    color: bisque;
+}
